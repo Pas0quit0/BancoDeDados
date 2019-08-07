@@ -73,3 +73,5 @@ Order By sum(quantity) desc
 
 /* -----------Ex. 2-------------- */
 
+
+
